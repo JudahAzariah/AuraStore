@@ -1,0 +1,4 @@
+com\aura\store\AuraStoreApplication.class
+com\aura\store\controller\ProductController.class
+com\aura\store\controller\OrderController.class
+com\aura\store\model\Product.class
